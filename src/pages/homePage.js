@@ -7,7 +7,9 @@ const HomePage = () => {
     return (
         <div>
             <Header></Header>
-            <Home></Home>
+            <Home>
+                
+            </Home>
             <Footer></Footer>
         </div>
     );

@@ -4,6 +4,7 @@ import AboutPage from "./pages/AboutPage";
 // import About from "./Components/About";
 // import Contact from "./Components/Contact";
 import HomePage from "./pages/homePage";
+import Counter from './Components/Counter';
 function App() {
   return (
     <div className="App">
@@ -13,6 +14,7 @@ function App() {
       <Contact></Contact> */}
 
       <HomePage></HomePage>
+      <Counter></Counter>
       <hr />
       <AboutPage></AboutPage>
     </div>
